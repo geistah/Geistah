@@ -7,15 +7,13 @@ Yo, I'm Geistah. I've been working with scripting languages for around 6 years. 
 <a href="https://discordlookup.com/user/1022294409938751559">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://geistah.xyz/bio">![Bio](https://img.shields.io/badge/Bio-Visit-%23181717.svg?style=for-the-badge&logo=link&logoColor=white)</a>
 
-
-
 ## Skills 
 ### Proficient In:
 
-<a href="https://devdocs.io/cpp/">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%23&logoColor=white" alt="c#">
 </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+<a href="https://devdocs.io/cpp/">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=%23F7DF1E" alt="C++">
 </a>
 <a href="https://www.javascript.com">
